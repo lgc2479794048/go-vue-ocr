@@ -1,0 +1,14 @@
+directories:
+  - name: cmd
+    packages:
+      - main
+  - name: internal
+  - name: pkg
+  - name: api
+  - name: web
+  - name: config
+  - name: docs
+  - name: scripts
+  - name: test
+    testOnly: true
+
